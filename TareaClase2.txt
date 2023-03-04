@@ -1,1 +1,2 @@
 Texto para ejercicio propuesto en tarea de la clase 2
+Edicion desde la web para corroborar que no esta localmente
